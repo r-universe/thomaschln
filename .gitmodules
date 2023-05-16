@@ -8,3 +8,8 @@
 	url = https://github.com/thomaschln/opticskxi
 	shallow = true
 	registered = true
+[submodule "snplinkage"]
+	path = snplinkage
+	url = https://gitlab.com/thomaschln/snplinkage
+	shallow = true
+	registered = true
