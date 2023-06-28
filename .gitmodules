@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "opticskxi"]
 	path = opticskxi
 	url = https://github.com/thomaschln/opticskxi
-	shallow = true
-	registered = true
 [submodule "snplinkage"]
 	path = snplinkage
 	url = https://gitlab.com/thomaschln/snplinkage
-	shallow = true
-	registered = true
