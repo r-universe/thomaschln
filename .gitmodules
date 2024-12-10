@@ -7,7 +7,7 @@
 	url = https://gitlab.com/thomaschln/kgraph
 [submodule "opticskxi"]
 	path = opticskxi
-	url = https://github.com/thomaschln/opticskxi
+	url = https://gitlab.com/thomaschln/opticskxi
 [submodule "sgraph"]
 	path = sgraph
 	url = https://gitlab.com/thomaschln/sgraph
