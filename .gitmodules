@@ -5,6 +5,9 @@
 [submodule "kgraph"]
 	path = kgraph
 	url = https://gitlab.com/thomaschln/kgraph
+[submodule "linevis"]
+	path = linevis
+	url = https://gitlab.com/thomaschln/linevis
 [submodule "opticskxi"]
 	path = opticskxi
 	url = https://gitlab.com/thomaschln/opticskxi
