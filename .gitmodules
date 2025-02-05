@@ -8,6 +8,9 @@
 [submodule "linevis"]
 	path = linevis
 	url = https://gitlab.com/thomaschln/linevis
+[submodule "nlpembeds"]
+	path = nlpembeds
+	url = https://gitlab.com/thomaschln/nlpembeds
 [submodule "opticskxi"]
 	path = opticskxi
 	url = https://gitlab.com/thomaschln/opticskxi
